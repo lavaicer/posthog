@@ -65,7 +65,7 @@ colorama==0.4.4
     # via pytest-watch
 coverage==5.5
     # via pytest-cov
-cryptography==39.0.2
+cryptography==43.0.1
     # via
     #   -c requirements.txt
     #   types-paramiko
