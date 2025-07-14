@@ -365,7 +365,7 @@ typing-extensions==4.7.1
     #   mypy-boto3-s3
     #   pydantic
     #   pydantic-core
-urllib3==1.26.18
+urllib3==2.5.0
     # via
     #   -c requirements.txt
     #   requests
