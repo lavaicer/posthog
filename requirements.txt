@@ -139,7 +139,7 @@ distro==1.9.0
     # via openai
 dj-database-url==0.5.0
     # via -r requirements.in
-django==4.2.11
+django==4.2.21
     # via
     #   -r requirements.in
     #   django-axes
@@ -568,7 +568,7 @@ snowflake-connector-python==3.6.0
     #   snowflake-sqlalchemy
 snowflake-sqlalchemy==1.5.3
     # via -r requirements.in
-social-auth-app-django==5.0.0
+social-auth-app-django==5.6.0
     # via -r requirements.in
 social-auth-core==4.3.0
     # via
