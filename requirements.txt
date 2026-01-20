@@ -222,7 +222,7 @@ drf-spectacular==0.27.1
     # via -r requirements.in
 et-xmlfile==1.1.0
     # via openpyxl
-filelock==3.12.0
+filelock==3.20.3
     # via snowflake-connector-python
 frozenlist==1.4.1
     # via
@@ -424,7 +424,7 @@ py==1.11.0
     # via retry
 pyarrow==15.0.0
     # via -r requirements.in
-pyasn1==0.5.0
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
@@ -650,7 +650,7 @@ unicodecsv==0.14.1
     # via djangorestframework-csv
 uritemplate==4.1.1
     # via drf-spectacular
-urllib3[secure,socks]==1.26.18
+urllib3==2.6.3
     # via
     #   botocore
     #   django-revproxy
