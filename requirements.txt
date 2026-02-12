@@ -116,7 +116,7 @@ clickhouse-driver==0.2.7
     #   sentry-sdk
 clickhouse-pool==0.5.3
     # via -r requirements.in
-cryptography==39.0.2
+cryptography==46.0.5
     # via
     #   -r requirements.in
     #   django-fernet-encrypted-fields
